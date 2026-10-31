@@ -1,3 +1,4 @@
+
 # RECLAIM AI: The Intelligent Subscription Value Exchange
 
 > *"Pay for what you need. Reuse what you already own. Never waste subscription value."*
@@ -157,3 +158,7 @@ Follow this live demonstration script:
 7. **Invoices & PDF Generation**:
    - Navigate to **Invoices**. Click the download icon on any invoice to generate and view the official PDF invoice with tax breakdowns.
    - Click **Generate Recurring Invoice** on a subscription already billed this month to verify the **Duplicate Billing Protection** rule in action!
+ 
+# hackathon
+Subscription_Management_System
+  f1a2ce35e89744dcd77ca5637d47d02d68f60678
